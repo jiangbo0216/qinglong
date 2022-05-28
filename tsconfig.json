@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
+    // 编译产物语法
     "target": "es2017",
+    // 模块语法 commonjs
     "module": "commonjs",
     "moduleResolution": "node",
     "importHelpers": true,
